@@ -1,0 +1,17 @@
+.outDivP {
+  width: 1000px;
+  margin: 6% auto;
+  height: 80%;
+  display: flex;
+  /* margin-left: 20px; */
+  /* margin-right: auto; */
+}
+.details {
+  min-height: 400px !important;
+}
+#nest-messages {
+  width: 450px;
+  /* margin-right: auto;
+  margin-left: 30px; */
+  flex: 1;
+}
